@@ -1,0 +1,3 @@
+insurnace:
+  provider:
+    url: http://localhost:9090/insurnace-service/getAllPlans
